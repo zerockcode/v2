@@ -1,0 +1,14 @@
+<template>
+
+  <h1>Todo Page</h1>
+
+  <router-view></router-view>
+
+</template>
+
+<script setup>
+</script>
+
+<style scoped>
+
+</style>
